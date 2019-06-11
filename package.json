@@ -1,6 +1,6 @@
 {
   "name": "@serverless/microservice",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Serverless Microservice Component",
   "main": "./serverless.js",
   "publishConfig": {
